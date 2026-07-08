@@ -440,3 +440,5 @@ CREATE TABLE Onboarding (
         REFERENCES Applications(application_id)
 
 );
+
+
